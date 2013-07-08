@@ -3,6 +3,8 @@ kb
 
 Knowledgebase for design+development collaboration.
 
+*Looking for the Goodies? Go here: [boom](https://github.com/Whiteboard/kb/wiki/Goodies).
+
 - [CSS3-only slider with changing text on top](http://codepen.io/jcutrell/pen/klAmu)
 - [CSS3 loading animations](http://codepen.io/jcutrell/pen/JIigd)
 - [JS Controlled Knob](http://codepen.io/jcutrell/pen/JxFje)
