@@ -22,4 +22,4 @@ Knowledgebase for design+development collaboration.
 - [Unique random number uniqRand(notthis, range)](https://gist.github.com/jcutrell/2703859)
 - [ImagesLoaded jQuery plugin](https://github.com/desandro/imagesloaded)
 - [Clearapp-style bars, hidden text shows on hover](http://codepen.io/jcutrell/pen/vBzCn)
-[](http://unsplash.s3.amazonaws.com/batch%209/sonja-langford-acorns.jpg)
+![](http://unsplash.s3.amazonaws.com/batch%209/sonja-langford-acorns.jpg)
