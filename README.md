@@ -4,6 +4,7 @@ kb
 Knowledgebase for design+development collaboration.
 
 *Looking for the Goodies? Go here: [boom](https://github.com/Whiteboard/kb/wiki/Goodies).
+
 *[Bunch of great Wordpress snippets](http://pastebin.com/u/chrismccoy)
 
 - [CSS3-only slider with changing text on top](http://codepen.io/jcutrell/pen/klAmu)
