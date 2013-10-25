@@ -25,6 +25,7 @@ Knowledgebase for design+development collaboration.
 - [ImagesLoaded jQuery plugin](https://github.com/desandro/imagesloaded)
 - [Clearapp-style bars, hidden text shows on hover](http://codepen.io/jcutrell/pen/vBzCn)
 - [View thumbnail of image before uploading](http://codepen.io/SaraVieira/pen/dFxyz)
+- [Markdown JS editor](http://codepen.io/jcutrell/pen/fyjCD)
 
 CC-licensed images:
 - [Superfamous](http://superfamous.com)
