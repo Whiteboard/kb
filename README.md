@@ -28,6 +28,18 @@ Knowledgebase for design+development collaboration.
 - [Markdown JS editor](http://codepen.io/jcutrell/pen/fyjCD)
 
 CC-licensed images:
-- [Superfamous](http://superfamous.com)
-- [Unsplash](http://unsplash.com)
-- [Little Visuals](http://littlevisuals.co)
+- Little Visuals http://littlevisuals.co/
+- Unsplash http://unsplash.com/
+- Death to the Stock Photo http://join.deathtothestockphoto.com/
+- New Old Stock http://nos.twnsnd.co/
+- Superfamous (requires attribution) http://superfamous.com/
+- Picjumbo http://picjumbo.com/
+- The Pattern Library http://thepatternlibrary.com/
+- Gratisography http://www.gratisography.com/
+- Getrefe http://getrefe.tumblr.com/
+- IM Free (requires attribution) http://imcreator.com/free
+- http://stocksy.com
+- http://snapwi.re
+- https://prime.500px.com/
+- http://www.freeimages.com/
+- http://www.photocase.com/
