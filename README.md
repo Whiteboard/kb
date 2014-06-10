@@ -43,3 +43,5 @@ CC-licensed images:
 - https://prime.500px.com/
 - http://www.freeimages.com/
 - http://www.photocase.com/
+- http://jaymantri.com/
+- http://www.imcreator.com/free
