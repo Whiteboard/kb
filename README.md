@@ -45,3 +45,6 @@ CC-licensed images:
 - http://www.photocase.com/
 - http://jaymantri.com/
 - http://www.imcreator.com/free
+
+Printing Resources:
+- Lumi http://www.lumi.com
