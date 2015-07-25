@@ -27,6 +27,12 @@ Knowledgebase for design+development collaboration.
 - [View thumbnail of image before uploading](http://codepen.io/SaraVieira/pen/dFxyz)
 - [Markdown JS editor](http://codepen.io/jcutrell/pen/fyjCD)
 
+*[How we encode video backgrounds for the web]
+- Start with 1080p source.
+- Download Miro [http://www.mirovideoconverter.com].
+- Use default WebM & mp4 settings.
+- Check for blockiness & weird noise - if it's not there, you're probably done!
+
 CC-licensed images:
 - Little Visuals http://littlevisuals.co/
 - Unsplash http://unsplash.com/
