@@ -55,3 +55,8 @@ CC-licensed images:
 
 Printing Resources:
 - Lumi http://www.lumi.com
+- 
+
+Email Resources
+- Fairly robust text-on-image-bg solution for email: http://backgrounds.cm/ [From Campaign Monitor!]
+- 
