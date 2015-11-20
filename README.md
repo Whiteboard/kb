@@ -7,6 +7,7 @@ Knowledgebase for design+development collaboration.
 
 *[Bunch of great Wordpress snippets](http://pastebin.com/u/chrismccoy)
 
+- [Wordpress Dashicons for use with custom admin menu items] (https://developer.wordpress.org/resource/dashicons/#admin-post)
 - [CSS3-only slider with changing text on top](http://codepen.io/jcutrell/pen/klAmu)
 - [CSS3 loading animations](http://codepen.io/jcutrell/pen/JIigd)
 - [JS Controlled Knob](http://codepen.io/jcutrell/pen/JxFje)
