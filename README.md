@@ -53,6 +53,7 @@ CC-licensed images:
 - http://jaymantri.com/
 - http://www.imcreator.com/free
 -http://www.sitebuilderreport.com/stock-up
+-http://freeforcommercialuse.net
 
 Printing Resources:
 - Lumi http://www.lumi.com
